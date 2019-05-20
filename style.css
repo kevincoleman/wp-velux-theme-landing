@@ -2752,3 +2752,9 @@ body.woocommerce-cart .primer-wc-cart-sub-menu {
 
 .wp-block-audio audio {
   width: 100%; }
+
+
+/* Override styles */
+  .footer-menu ul li a {
+  color: white !important;
+}
