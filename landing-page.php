@@ -20,7 +20,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-	<link rel="stylesheet" type="text/css" href="/wp-content/themes/primer/landing-style.css">
+	<link rel="stylesheet" type="text/css" href="/wp-content/themes/velux/landing-style.css">
 	<?php wp_head(); ?>
 </head>
 
